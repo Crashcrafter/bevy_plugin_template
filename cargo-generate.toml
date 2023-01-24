@@ -1,5 +1,2 @@
 [template]
-cargo_generate_version = ">=0.12.0"
-
-[placeholders]
-project-name = { type="string", prompt="Project Name?" }
+cargo_generate_version = ">=0.16.0"
